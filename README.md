@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Bram's GitHub stats](https://github-readme-stats-git-master-bramdenelzens-projects.vercel.app/api?username=bramdenelzen&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats-nu-ashy-72.vercel.app/api?username=bramdenelzen)
 <!--
 **bramdenelzen/bramdenelzen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
