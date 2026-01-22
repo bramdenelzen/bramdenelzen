@@ -10,20 +10,26 @@ My focus lies in modern web ecosystems, leveraging tools like **Next.js**, **GSA
 
 ## Tech Stack
 
+<div align="center">
+
 **Languages & Frameworks**
+
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/docs/)
 [![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/docs)
 [![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)](https://vuejs.org/guide/introduction.html)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/docs)
 [![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)](https://gsap.com/docs/v3/)
 
+<br>
+
 **Tools & CMS**
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/doc)
+
 [![Payload CMS](https://img.shields.io/badge/Payload_CMS-000000?style=for-the-badge&logo=payload&logoColor=white)](https://payloadcms.com/docs)
 [![ShadCn](https://img.shields.io/badge/ShadCn-000000?style=for-the-badge&logo=shadcnui&logoColor=white)](https://ui.shadcn.com/docs)
 
----
+</div>
 
+---
 
 ## Connect with Me
 
