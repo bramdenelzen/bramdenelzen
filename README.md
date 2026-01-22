@@ -24,16 +24,6 @@ My focus lies in modern web ecosystems, leveraging tools like **Next.js**, **GSA
 
 ---
 
-## 🚀 Recent Projects
-
-| Project | Description | Stack |
-| :--- | :--- | :--- |
-| **SugarCube Media** | A modern website featuring a custom contact form with SMTP integration via Nodemailer. | `Next.js` `Payload CMS` `Tailwind` |
-| **VDS Stables** | User-friendly website with seamless CMS integration for managing services and reviews. | `Payload CMS` `Next.js` `TypeScript` |
-| **Den Elzen Digital** | My central hub showcasing case studies and technical expertise with a focus on SEO and accessibility. | `GSAP` `Next.js` `ShadCn` |
-| **Flux Hedel** | Dynamic venue website featuring direct Eventix ticket integration. | `Next.js` `Tailwind` `API Integration` |
-
----
 
 ## 📫 Connect with Me
 
