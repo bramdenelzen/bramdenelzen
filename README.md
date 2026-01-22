@@ -11,16 +11,27 @@ My focus lies in modern web ecosystems, leveraging tools like **Next.js**, **GSA
 ## 🛠️ Tech Stack
 
 **Languages & Frameworks**
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/docs/)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/docs)
+[![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)](https://vuejs.org/guide/introduction.html)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/docs)
+[![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)](https://gsap.com/docs/v3/)
 
 **Tools & CMS**
-![Payload CMS](https://img.shields.io/badge/Payload_CMS-000000?style=for-the-badge&logo=payload&logoColor=white)
-![ShadCn](https://img.shields.io/badge/ShadCn-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/doc)
+[![Payload CMS](https://img.shields.io/badge/Payload_CMS-000000?style=for-the-badge&logo=payload&logoColor=white)](https://payloadcms.com/docs)
+[![ShadCn](https://img.shields.io/badge/ShadCn-000000?style=for-the-badge&logo=shadcnui&logoColor=white)](https://ui.shadcn.com/docs)
 
+---
+
+## 🚀 Recent Projects
+
+| Project | Description | Stack |
+| :--- | :--- | :--- |
+| **SugarCube Media** | A modern website featuring a custom contact form with SMTP integration via Nodemailer. | `Next.js` `Payload CMS` `Tailwind` |
+| **VDS Stables** | User-friendly website with seamless CMS integration for managing services and reviews. | `Payload CMS` `Next.js` `TypeScript` |
+| **Den Elzen Digital** | My central hub showcasing case studies and technical expertise with a focus on SEO and accessibility. | `GSAP` `Next.js` `ShadCn` |
+| **Flux Hedel** | Dynamic venue website featuring direct Eventix ticket integration. | `Next.js` `Tailwind` `API Integration` |
 
 ---
 
