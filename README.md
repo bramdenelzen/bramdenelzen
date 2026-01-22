@@ -1,4 +1,4 @@
-# Hi there, I'm Bram den Elzen! 👋
+# Hi, I'm Bram den Elzen
 
 ### Full Stack Developer & Informatics Student
 
@@ -8,7 +8,7 @@ My focus lies in modern web ecosystems, leveraging tools like **Next.js**, **GSA
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages & Frameworks**
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/docs/)
@@ -25,8 +25,8 @@ My focus lies in modern web ecosystems, leveraging tools like **Next.js**, **GSA
 ---
 
 
-## 📫 Connect with Me
+## Connect with Me
 
-- 🌐 **Portfolio**: [bramdenelzen.nl](https://www.bramdenelzen.nl)
-- 💼 **LinkedIn**: [Bram den Elzen](https://www.linkedin.com/in/bram-den-elzen-91771a201/)
-- ✉️ **Contact**: [Get in touch via my website](https://www.bramdenelzen.nl)
+- **Portfolio**: [bramdenelzen.nl](https://www.bramdenelzen.nl)
+- **LinkedIn**: [Bram den Elzen](https://www.linkedin.com/in/bram-den-elzen-91771a201/)
+- **Contact**: [Get in touch via my website](https://www.bramdenelzen.nl)
