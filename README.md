@@ -10,7 +10,7 @@ My focus lies in modern web ecosystems, leveraging tools like **Next.js**, **GSA
 
 ## Tech Stack
 
-<div align="center">
+<div align="start">
 
 **Languages & Frameworks**
 
